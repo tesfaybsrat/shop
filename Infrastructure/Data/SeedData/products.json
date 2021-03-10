@@ -1,0 +1,127 @@
+[
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Green Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 100,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Java speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 1100,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 3
+    },    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+    },    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 5
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 6
+    },
+    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 6
+    },    {
+        "Name": "Angular speedster Board 2000",
+        "Description": "Lorem gfhsgf dghgahjd,dvhdgj hjghjhdahdhga",
+        "Price" : 200,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 6
+    }
+]
