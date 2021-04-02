@@ -5,6 +5,7 @@ import { Injectable } from '@angular/core';
 import { IPagination } from '../share/models/pagination';
 import { map } from 'rxjs/operators';
 import { ShopParams } from '../share/models/shopParams';
+import { IProduct } from '../share/models/product';
 
 @Injectable({
   providedIn: 'root'
@@ -41,6 +42,10 @@ baseUrl = 'https://localhost:5001/api/';
         return response.body;
       })
     );
+  }
+
+  getProduct(id: number){
+    return this.http.get<IProduct>(this.baseUrl + 'products/' + id);
   }
 
   // tslint:disable-next-line: typedef
