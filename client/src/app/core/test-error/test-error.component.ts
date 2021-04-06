@@ -44,7 +44,7 @@ export class TestErrorComponent implements OnInit {
   }
 
   get400ValidationError(){
-    this.https.get(this.baseUrl + 'products/fortytwo').subscribe(
+    this.https.get(this.baseUrl + 'buggy/badrequst/rty').subscribe(
       response => {
         console.log(response);
       }, error=>{
