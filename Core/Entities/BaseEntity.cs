@@ -4,4 +4,8 @@ namespace Core.Entities
     {
         public int Id { get; set; }
     }
-}
+} 
+
+// Tgirma@excelletentsolutions.com
+// jmuhibu@
+// mbeshah@
